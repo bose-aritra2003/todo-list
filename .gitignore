@@ -2,3 +2,6 @@
 node_modules
 # confidential keys
 .env
+
+# MacOS
+.DS_Store
